@@ -1,10 +1,11 @@
 # NeuroStartUp
 
-![Logo](https://content.screencast.com/users/mstarilov/folders/Snagit/media/96855b32-fdbe-431a-9508-c737a65cea09/11.08.2020-16.23.png)
+![Logo](https://user-images.githubusercontent.com/68705045/155830510-cd6c93f5-7ef8-4b55-955e-f001bbd8f836.png)
 
 **NeuroStartUp** — динамически развивающийся стартап, специализирующийся на поиске с использованием новейших технологий искусственного интеллекта.
 
 Наши преимущества:
+
 * Высокая точность поиска
 * Высокая скорость поиска
 * Низкая цена
